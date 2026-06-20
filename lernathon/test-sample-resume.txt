@@ -1,0 +1,17 @@
+John Doe
+john.doe@email.com
++1 (555) 123-4567
+
+EXPERIENCE
+Senior Full Stack Developer - 5 years
+
+TECHNICAL SKILLS:
+- Java, Spring Boot, Hibernate
+- React, TypeScript, Redux
+- PostgreSQL, MongoDB
+- Docker, Kubernetes, AWS
+- Git, CI/CD, Jenkins
+
+EDUCATION:
+Bachelor of Science in Computer Science
+MIT, 2019

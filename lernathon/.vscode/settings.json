@@ -1,0 +1,16 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "python.defaultInterpreterPath": "${workspaceFolder}/interview/venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\shive\\AppData\\Roaming\\Python\\Python313\\site-packages",
+        "${workspaceFolder}/interview/venv/Lib/site-packages",
+        "${workspaceFolder}/.venv/Lib/site-packages",
+        "${workspaceFolder}/AI-Resume-Analyzer/venv-standard/Lib/site-packages"
+    ],
+    "python.autoComplete.extraPaths": [
+        "C:\\Users\\shive\\AppData\\Roaming\\Python\\Python313\\site-packages",
+        "${workspaceFolder}/interview/venv/Lib/site-packages",
+        "${workspaceFolder}/.venv/Lib/site-packages",
+        "${workspaceFolder}/AI-Resume-Analyzer/venv-standard/Lib/site-packages"
+    ]
+}
